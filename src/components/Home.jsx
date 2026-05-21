@@ -26,7 +26,7 @@ function Home() {
             {/* Main Photo Frame */}
             <div className="relative w-56 h-56 sm:w-64 sm:h-64 md:w-80 md:h-80 rounded-[2.2rem] overflow-hidden border border-white/10 shadow-2xl ring-4 ring-cyan-500/10 group-hover:ring-cyan-500/30 transform rotate-3 hover:rotate-0 transition-all duration-500">
               <img 
-                src="/images/krishna.jpg"
+                src="/images/krishnaaaaaa.jpeg"
                 alt="Krishna Profile" 
                 className="w-full h-full object-cover scale-105 group-hover:scale-100 transition-transform duration-500"
               />
